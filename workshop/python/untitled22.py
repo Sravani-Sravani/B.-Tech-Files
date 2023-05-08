@@ -1,0 +1,1 @@
+print("Hello {},your balance is {}".format("adam",230))
